@@ -1,7 +1,7 @@
 {
   "name": "kadira-engine",
   "dependencies": {
-    "mongodb": "1.4.x",
+    "mongodb": "2.2.x",
     "connect": "2.x",
     "underscore": "1.8.x",
     "connect-ntp": "0.1.x",

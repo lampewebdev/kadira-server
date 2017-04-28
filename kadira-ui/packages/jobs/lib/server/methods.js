@@ -4,7 +4,6 @@ var createAWSFile = function(jobId, callback){
   callback = callback || function(){};
   var s3 = new AWS.S3();
 
-  AWS.config.region = 'us-east-1';
   var params = {
     Bucket: 'profdata.kadira.io',
     ContentType: 'application/json',
