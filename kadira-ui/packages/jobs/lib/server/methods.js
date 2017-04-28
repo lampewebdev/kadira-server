@@ -3,9 +3,12 @@ var AWS = Npm.require('aws-sdk');
 var createAWSFile = function(jobId, callback){
   callback = callback || function(){};
   var s3 = new AWS.S3();
-
+  if(!process.env.AWS_BUCKET){
+    throw new Error('plese set the env AWS_BUCKET');
+    process.exit(1);
+  }
   var params = {
-    Bucket: 'profdata.kadira.io',
+    Bucket: process.env.AWS_BUCKET,
     ContentType: 'application/json',
     ACL: 'public-read'
   };
