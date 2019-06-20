@@ -24,7 +24,7 @@
   "devDependencies": {
     "babel-eslint": "4.x.x",
     "chai": "3.x.x",
-    "eslint": "1.7.x",
+    "eslint": "4.18.x",
     "eslint-plugin-babel": "2.x.x",
     "mocha": "2.x.x",
     "nodemon": "1.7.x",
