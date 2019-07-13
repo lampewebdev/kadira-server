@@ -50,7 +50,7 @@
     "immutable": "3.7.x",
     "invariant": "^2.1.1",
     "jsonwebtoken": "5.7.x",
-    "lodash": "3.x.x",
+    "lodash": "4.x.x",
     "lru-cache": "2.x.x",
     "moment": "2.x.x",
     "mongo-sharded-cluster": "2.x.x",
