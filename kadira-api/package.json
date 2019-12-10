@@ -57,7 +57,7 @@
     "mongodb": "2.x.x",
     "node-uuid": "^1.4.7",
     "url-mailer": "0.x.x",
-    "ws": "0.8.x"
+    "ws": "3.3.x"
   },
   "private": true
 }
