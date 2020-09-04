@@ -54,7 +54,7 @@
     "lru-cache": "2.x.x",
     "moment": "2.x.x",
     "mongo-sharded-cluster": "2.x.x",
-    "mongodb": "2.x.x",
+    "mongodb": "3.x.x",
     "node-uuid": "^1.4.7",
     "url-mailer": "0.x.x",
     "ws": "0.8.x"
