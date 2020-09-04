@@ -41,7 +41,7 @@
     "lokka-transport-http-auth": "1.x.x",
     "moment": "2.x.x",
     "mongo-oplog": "2.x.x",
-    "mongodb": "2.x.x",
+    "mongodb": "3.x.x",
     "node-fetch": "1.x.x",
     "nodemailer": "4.x.x",
     "nodemailer-smtp-transport": "2.x.x",
