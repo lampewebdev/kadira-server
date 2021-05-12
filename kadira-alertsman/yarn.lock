@@ -2343,9 +2343,9 @@ nodemailer-wellknown@0.1.10:
   version "0.1.10"
   resolved "https://registry.yarnpkg.com/nodemailer-wellknown/-/nodemailer-wellknown-0.1.10.tgz#586db8101db30cb4438eb546737a41aad0cf13d5"
 
-nodemailer@4.x.x:
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-4.7.0.tgz#4420e06abfffd77d0618f184ea49047db84f4ad8"
+nodemailer@6.x.x:
+  version "6.4.16"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.4.16.tgz#5cb6391b1d79ab7eff32d6f9f48366b5a7117293"
 
 nodemon@1.x.x:
   version "1.11.0"
